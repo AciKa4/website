@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmnls="https://www.sitemaps.org/schemas/sitemap/0.9/">
+	<url>
+		<loc>aaaa/index.html</loc>
+		<lastmod>2019-12-4</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>aaa/ranking.html</loc>
+		<lastmod>2019-12-4</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>aaa/gallery.html</loc>
+		<lastmod>2019-12-4</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.75</priority>
+	</url>
+	<url>
+		<loc>aaa/contact.html</loc>
+		<lastmod>2019-12-4</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>aaa/about.html</loc>
+		<lastmod>2019-12-5</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>

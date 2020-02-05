@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+ <rss version="2.0">
+<channel>
+	<title>New release</title>
+	<link>aaa/index.html</link>
+	<description>Newest mangas only on our site</description>
+<item>
+	<title>Queen of the Beast</title>
+	<link>aaa/index.html</link>
+	<description>Queen of the Beast only on our site</description>
+</item>
+<item>
+	<title>New Release</title>
+	<link>aaa/index.html</link>
+	<description>New manga release</description>
+</item>
+<item>
+	<title>Late Winter</title>
+	<link>aaa/index.html</link>
+	<description>Late Winter on our site</description>
+</item>
+</channel>
+</rss>
